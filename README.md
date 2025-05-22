@@ -1,5 +1,7 @@
 TEMA ELEGIDO: GESTION DE CARTERA DE INVERSIONES
+
 CASO PROPUESTO:
+
 📘 Contexto general
 Las empresas del sector financiero, como sociedades administradoras de fondos, agentes de bolsa o bancos de inversión, ofrecen a sus clientes la posibilidad de invertir su dinero en productos financieros como acciones, bonos, fondos mutuos o ETFs.
 Cada cliente puede tener uno o más portafolios de inversión, los cuales agrupan transacciones realizadas con diferentes activos. Cada compra o venta tiene un precio, y a lo largo del tiempo estos activos cambian de valor en el mercado. La rentabilidad que obtiene el cliente depende del precio de compra, el precio de venta y la variación de los precios de mercado.
