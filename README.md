@@ -64,3 +64,9 @@ fecha	DATE          (PK compuesta)      	Fecha del precio.
 precio_cierre	      DECIMAL(10,4)        	Precio de mercado al cierre de ese día.
 
 ![Gestión de Cartera de Inversiones](https://github.com/user-attachments/assets/7def8db8-facc-4621-8aaf-a53783d301c8)
+
+
+##MODELO LOGICO GESTION DE INVERSIONES
+
+![image](https://github.com/user-attachments/assets/e50de188-f24f-4f03-bd84-42a706330767)
+
