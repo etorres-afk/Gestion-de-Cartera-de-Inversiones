@@ -65,6 +65,9 @@ precio_cierre	      DECIMAL(10,4)        	Precio de mercado al cierre de ese dí
 
 ![Gestión de Cartera de Inversiones](https://github.com/user-attachments/assets/7def8db8-facc-4621-8aaf-a53783d301c8)
 
+#
+
+![image](https://github.com/user-attachments/assets/4d5d0abc-5078-4c6d-b194-a14deb22f177)
 
 ##MODELO LOGICO GESTION DE INVERSIONES
 
