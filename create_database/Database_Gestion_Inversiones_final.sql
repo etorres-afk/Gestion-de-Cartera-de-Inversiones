@@ -259,5 +259,7 @@ FROM activo
 GROUP BY tipo_activo
 ORDER BY cantidad DESC;
 
+-- Consulta8:
+-- 
 
 
