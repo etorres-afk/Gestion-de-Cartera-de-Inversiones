@@ -63,13 +63,13 @@ activo_id	          INT (FK)	            ID del activo.
 fecha	DATE          (PK compuesta)      	Fecha del precio.
 precio_cierre	      DECIMAL(10,4)        	Precio de mercado al cierre de ese día.
 
-![Gestión de Cartera de Inversiones](https://github.com/user-attachments/assets/7def8db8-facc-4621-8aaf-a53783d301c8)
+##MODELO CONCEPTUAL
+![image](https://github.com/user-attachments/assets/40315938-3eb8-47e3-b45c-e6af87670282)
 
-#
-
-![image](https://github.com/user-attachments/assets/4d5d0abc-5078-4c6d-b194-a14deb22f177)
 
 ##MODELO LOGICO GESTION DE INVERSIONES
+![image](https://github.com/user-attachments/assets/bd1aa535-0e19-445f-9e6a-4d95afbad07c)
 
-![image](https://github.com/user-attachments/assets/e50de188-f24f-4f03-bd84-42a706330767)
 
+##MODELO FISICO
+![image](https://github.com/user-attachments/assets/ed3f1c10-466d-4a4c-9d87-18c55f482110)
